@@ -1,3 +1,5 @@
 Introduction of this repos. 
 
-http://markdownguide.org
+This repo is used for the in-class practice of cSC260
+We will have every command needed for git here 
+For more about markdown language refer here http://markdownguide.org
